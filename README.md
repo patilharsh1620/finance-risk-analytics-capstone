@@ -238,8 +238,8 @@ Finance-Risk-Analytics/
 
 **Harsh Patil**
 
--   LinkedIn: https://linkedin.com/in/your-profile
--   GitHub: https://github.com/yourusername
+-   LinkedIn: linkedin.com/in/harshpatilindia
+-   GitHub: https://github.com/patilharsh1620
 
 ⭐ If you found this project useful, don't forget to **Star** this
 repository.
